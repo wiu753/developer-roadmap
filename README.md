@@ -156,6 +156,7 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
 - Link layer
     - Checksums
     - LAN
+        - ARP
     - Link virtualization
     - Data centers
     - A day in the life of a web page request
@@ -163,6 +164,7 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
 - Security in computer networks
     - Basic cryptography
     - Message integrity
+    - User authentication
     - End-point authentication
     - Securing e-mail
     - TLS
