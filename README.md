@@ -50,3 +50,62 @@ Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
 - Desktop applications
 - Web assembly
 
+## Back-end
+Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
+- Operating systems and general computer knowledge
+    - Terminal
+    - How OSs are built up
+    - Process management
+    - Threads and concurrency
+    - Memory management
+    - Interprocess communication
+    - I/O management
+    - POSIX basics
+- Databases
+    - Relational databases
+        - PostgreSQL or MySQL
+    - NoSQL databases
+        - MongoDB
+    - Data replication
+    - Sharding
+    - CAP theorem
+- APIs
+    - Authentication
+        - Cookies
+        - OAuth
+        - Basic Authentication
+        - Token Authentication
+        - JWT
+        - OpenID
+        - SAML
+    - REST
+    - JSON APIs
+    - SOAP
+- Caching
+    - CDN
+    - Client side
+    - Server side
+        - Redis
+- Testing
+    - Integration testing
+    - Unit testing
+    - Functional testing
+- CI/CD
+- Design and development principles
+- Architectural patterns
+    - Monolothic apps
+    - Microservices
+    - SOA
+    - CQRS and event sourcing
+    - Serverless
+- Search engines
+    - Elasticsearch
+- Message brokers
+    - RabbitMQ
+- Containerization vs virtualization
+    - Docker
+- Graph databases
+- Web sockets
+- Web servers
+    - NGINX
+- How to build for scale
