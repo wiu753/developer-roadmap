@@ -163,7 +163,8 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
 - Wireless and mobile networks
 - Security in computer networks
     - Basic cryptography
-    - Message integrity
+    - Message integrity and digital signatures
+        - Hashing and salting
     - User authentication
     - End-point authentication
     - Securing e-mail
