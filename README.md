@@ -109,3 +109,25 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
 - Web servers
     - NGINX
 - How to build for scale
+
+## Algorithms and Datastructures
+- Arrays
+- Binary search trees
+- Binary trees
+- Dynamic programming
+- Famous algorithms
+    - Kadane
+    - Djikstra
+    - Topological sort
+    - Knuth-Morris-Pratt
+    - A*Algorithm
+- Graphs
+- Greedy algorithms
+- Heaps
+- Linked lists
+- Recursion
+- Searching
+- Sorting
+- Stacks
+- Strings
+- Tries
