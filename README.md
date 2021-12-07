@@ -7,7 +7,7 @@ Overview of all topics that I would like to know as a software engineer working 
 3. Algorithms and datastructres
 4. Network
 5. Web security
-6. Devops
+6. DevOps
 
 ## Front-end
 Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
@@ -90,7 +90,6 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
     - Integration testing
     - Unit testing
     - Functional testing
-- CI/CD
 - Design and development principles
 - Architectural patterns
     - Monolothic apps
@@ -131,3 +130,35 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
 - Stacks
 - Strings
 - Tries
+## Network
+These topics are taken from [Computer Networking, 8th Edition](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html).
+- What are computer networks and the Internet?
+- Application layer
+    - The web and HTTP
+    - Mail
+    - DNS
+    - P2P
+    - Video streaming
+    - Socket programming
+- Transport layer
+    - Multiplexing
+    - UDP
+    - TCP
+    - Congestion control
+- Network layer
+    - Routing
+    - IPv4 and IPv6
+    - Routing algorithms
+    - OSPF
+    - ISP routing
+    - ICMP
+- Link layer
+    - Checksums
+    - LAN
+    - Link virtualization
+    - Data centers
+    - A day in the life of a web page request
+## Web Security
+## DevOps
+- Kubernetes
+- Google Cloud, AWS or Azure
