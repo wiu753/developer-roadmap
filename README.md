@@ -159,6 +159,16 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - Link virtualization
     - Data centers
     - A day in the life of a web page request
+- Wireless and mobile networks
+- Security in computer networks
+    - Basic cryptography
+    - Message integrity
+    - End-point authentication
+    - Securing e-mail
+    - TLS
+    - IPsec and VPN
+    - Securing wireless LANs
+    - Operational security, firewalls and intrusion detection systems
 ## Web Security
 [PortSwigger](https://portswigger.net/web-security/learning-path) is a great resource for learning about web security and hacking.
 - Server side
