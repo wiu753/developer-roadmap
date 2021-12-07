@@ -110,6 +110,7 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
 - How to build for scale
 
 ## Algorithms and Datastructures
+For learning these topics I use [AlgoExpert](https://www.algoexpert.io/questions).
 - Arrays
 - Binary search trees
 - Binary trees
@@ -159,6 +160,31 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - Data centers
     - A day in the life of a web page request
 ## Web Security
+[PortSwigger](https://portswigger.net/web-security/learning-path) is a great resource for learning about web security and hacking.
+- Server side
+    - SQL injection
+    - Authentication
+    - Directory traversal
+    - Command injection
+    - Business logic vulnerabilities
+    - Information disclousre
+    - Acess control
+    - File upload vulnerabilities
+    - Server-side request forgery (SSRF)
+    - XXE injection
+- Client side
+    - Cross-site scripting (XSS)
+    - Cross-site request forgery (CSRF)
+    - Cross-origin resource sharing (CORS)
+    - Clickjacking
+    - DOM-based vulnerabilities
+    - Web sockets
+- Advanced topics
+    - Server-side template injection
+    - Web cache poisoning
+    - HTTP host header attacks
+    - HTTP request smuggling
+    - OAuth authentication
 ## DevOps
 - Kubernetes
 - Google Cloud, AWS or Azure
