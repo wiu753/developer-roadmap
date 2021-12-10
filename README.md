@@ -45,7 +45,7 @@ Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
     - Storage, web sockets, service workers
     - PRPL, RAIL, performance metrics and lighthouse
 
-### Optional learning
+### Optional Learning
 - Mobile applications
 - Desktop applications
 - Web assembly
@@ -109,8 +109,10 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
     - NGINX
 - How to build for scale
 
-## Algorithms and Datastructures
+## Algorithms and Data Structures
 For learning these topics I use [AlgoExpert](https://www.algoexpert.io/questions).
+- Complexity analysis
+- Big O
 - Arrays
 - Binary search trees
 - Binary trees
