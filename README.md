@@ -119,7 +119,7 @@ For learning these topics I use [AlgoExpert](https://www.algoexpert.io/questions
 - Dynamic programming
 - Famous algorithms
     - Kadane
-    - Djikstra
+    - Dijkstra
     - Topological sort
     - Knuth-Morris-Pratt
     - A*Algorithm
