@@ -92,7 +92,7 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
     - Functional testing
 - Design and development principles
 - Architectural patterns
-    - Monolothic apps
+    - Monolithic apps
     - Microservices
     - SOA
     - CQRS and event sourcing
@@ -182,8 +182,8 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - Directory traversal
     - Command injection
     - Business logic vulnerabilities
-    - Information disclousre
-    - Acess control
+    - Information disclosure
+    - Access control
     - File upload vulnerabilities
     - Server-side request forgery (SSRF)
     - XXE injection
