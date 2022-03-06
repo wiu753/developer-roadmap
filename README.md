@@ -4,7 +4,7 @@ Overview of all topics that I would like to know as a software engineer working 
 ## Topics
 1. Front-end
 2. Back-end
-3. Algorithms and datastructres
+3. Algorithms and data structures
 4. Network
 5. Web security
 6. DevOps
@@ -36,14 +36,14 @@ Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
 - Testing
     - Jest and Cypress
 - TypeScript
-- Server side rendering
+- Server-side rendering
     - Nuxt or Next
 - GraphQL
 - Static site generators
     - Nuxt or Next
 - Progressive web apps
     - Storage, web sockets, service workers
-    - PRPL, RAIL, performance metrics and lighthouse
+    - PRPL, RAIL, performance metrics, and lighthouse
 
 ### Optional Learning
 - Mobile applications
@@ -83,8 +83,8 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
     - SOAP
 - Caching
     - CDN
-    - Client side
-    - Server side
+    - Client-side
+    - Server-side
         - Redis
 - Testing
     - Integration testing
@@ -110,7 +110,7 @@ Inspired from [https://roadmap.sh/backend](https://roadmap.sh/backend).
 - How to build for scale
 
 ## Algorithms and Data Structures
-For learning these topics I use [AlgoExpert](https://www.algoexpert.io/questions).
+For learning these topics, I use [AlgoExpert](https://www.algoexpert.io/questions).
 - Complexity analysis
 - Big O
 - Arrays
@@ -155,7 +155,7 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - OSPF
     - ISP routing
     - ICMP
-- Link layer
+- Link-layer
     - Checksums
     - LAN
         - ARP
@@ -173,10 +173,10 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - TLS
     - IPsec and VPN
     - Securing wireless LANs
-    - Operational security, firewalls and intrusion detection systems
+    - Operational security, firewalls, and intrusion detection systems
 ## Web Security
 [PortSwigger](https://portswigger.net/web-security/learning-path) is a great resource for learning about web security and hacking.
-- Server side
+- Server-side
     - SQL injection
     - Authentication
     - Directory traversal
@@ -187,7 +187,7 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - File upload vulnerabilities
     - Server-side request forgery (SSRF)
     - XXE injection
-- Client side
+- Client-side
     - Cross-site scripting (XSS)
     - Cross-site request forgery (CSRF)
     - Cross-origin resource sharing (CORS)
@@ -202,4 +202,4 @@ These topics are taken from [Computer Networking, 8th Edition](https://www.pears
     - OAuth authentication
 ## DevOps
 - Kubernetes
-- Google Cloud, AWS or Azure
+- Google Cloud, AWS, or Azure
