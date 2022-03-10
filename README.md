@@ -1,18 +1,6 @@
 # Developer Roadmap
 The list below is the topics that I would like to have some knowledge about when finishing my software engineering degree. Some topics are more important for me than others. Networks and operating systems are technologies that I most likely won't be working on directly, but they are topics that I believe are nice to have some basic knowledge about.
 
-How I chose to learn these topics are mainly through these methods:
-- Always focus on understanding rather than memorization
-- Using active recall (testing yourself) through the use of [Anki](https://apps.ankiweb.net/)
-- Using the Feynman technique (be able to explain the topic to a five-year-old) by writing articles and talking to friends
-- Interrupt the forgetting curve by creating a revision table so that I retain the information that I learn
-
-And mostly using these sources:
-- Reading textbooks and writing down key questions in Anki
-- Write an article/text/explanation
-- Do a project using the technology
-- Do online courses and challenges
-
 ## Topics
 1. Network
 2. Operating systems
