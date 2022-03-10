@@ -1,13 +1,81 @@
 # Developer Roadmap
-Overview of all topics that I would like to know as a software engineer working with web technologies.
+The list below is the topics that I would like to have some knowledge about when finishing my software engineering degree. Some topics are more important for me than others. Networks and operating systems are technologies that I most likely won't be working on directly, but they are topics that I believe are nice to have some basic knowledge about.
+
+How I chose to learn these topics are mainly through these methods:
+- Always focus on understanding rather than memorization
+- Using active recall (testing yourself) through the use of [Anki](https://apps.ankiweb.net/)
+- Using the Feynman technique (be able to explain the topic to a five-year-old) by writing articles and talking to friends
+- Interrupt the forgetting curve by creating a revision table so that I retain the information that I learn
+
+And mostly using these sources:
+- Reading textbooks and writing down key questions in Anki
+- Write an article/text/explanation
+- Do a project using the technology
+- Do online courses and challenges
 
 ## Topics
-1. Front-end
-2. Back-end
-3. Algorithms and data structures
-4. Network
-5. Web security
-6. DevOps
+1. Network
+2. Operating systems
+3. Front-end
+4. Back-end
+5. Algorithms and data structures
+6. Web security
+7. DevOps
+
+## Network
+Topics taken from [Computer Networking, 8th Edition](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html).
+- What are computer networks and the Internet?
+- Application layer
+    - The web and HTTP
+    - Mail
+    - DNS
+    - P2P
+    - Video streaming
+    - Socket programming
+- Transport layer
+    - Multiplexing
+    - UDP
+    - TCP
+    - Congestion control
+- Network layer
+    - Routing
+    - IPv4 and IPv6
+    - Routing algorithms
+    - OSPF
+    - ISP routing
+    - ICMP
+- Link-layer
+    - Checksums
+    - LAN
+        - ARP
+    - Link virtualization
+    - Data centers
+    - A day in the life of a web page request
+- Wireless and mobile networks
+- Security in computer networks
+    - Basic cryptography
+    - Message integrity and digital signatures
+        - Hashing and salting
+    - User authentication
+    - End-point authentication
+    - Securing e-mail
+    - TLS
+    - IPsec and VPN
+    - Securing wireless LANs
+    - Operational security, firewalls, and intrusion detection systems
+
+## Operating systems
+Topics taken from [Operating Systems: Internals and Design Principles, 9th Edition](https://www.pearson.com/us/higher-education/program/Stallings-Operating-Systems-Internals-and-Design-Principles-9th-Edition/PGM1262980.html).
+- Computer system overview
+- Operating system overview
+- Process description and control
+- Threads
+- Concurrency
+- I/O and management
+- File management
+- Virtual machines
+- Operating system security
+- Cloud and IoT operating systems
 
 ## Front-end
 Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
@@ -22,14 +90,14 @@ Inspired from [https://roadmap.sh/frontend](https://roadmap.sh/frontend).
 - JavaScript
 - Git & GitHub
 - Package Managers
-    - npm
-    - yarn
+    - NPM
+    - Yarn
 - Build tools
     - Linters and formatters
         - ESLint
         - Prettier
     - Task runners
-        - npm scripts
+        - NPM scripts
         - Webpack
 - Framework
     - Vue or React
@@ -133,47 +201,7 @@ For learning these topics, I use [AlgoExpert](https://www.algoexpert.io/question
 - Stacks
 - Strings
 - Tries
-## Network
-These topics are taken from [Computer Networking, 8th Edition](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html).
-- What are computer networks and the Internet?
-- Application layer
-    - The web and HTTP
-    - Mail
-    - DNS
-    - P2P
-    - Video streaming
-    - Socket programming
-- Transport layer
-    - Multiplexing
-    - UDP
-    - TCP
-    - Congestion control
-- Network layer
-    - Routing
-    - IPv4 and IPv6
-    - Routing algorithms
-    - OSPF
-    - ISP routing
-    - ICMP
-- Link-layer
-    - Checksums
-    - LAN
-        - ARP
-    - Link virtualization
-    - Data centers
-    - A day in the life of a web page request
-- Wireless and mobile networks
-- Security in computer networks
-    - Basic cryptography
-    - Message integrity and digital signatures
-        - Hashing and salting
-    - User authentication
-    - End-point authentication
-    - Securing e-mail
-    - TLS
-    - IPsec and VPN
-    - Securing wireless LANs
-    - Operational security, firewalls, and intrusion detection systems
+
 ## Web Security
 [PortSwigger](https://portswigger.net/web-security/learning-path) is a great resource for learning about web security and hacking.
 - Server-side
